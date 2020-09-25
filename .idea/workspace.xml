@@ -9,9 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Completed module 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +31,6 @@
         <projects_view />
       </state>
     </system>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>response</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +59,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -223,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601026722879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed module 3">
+      <created>1601026994220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601026994220</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,32 +235,41 @@
     <MESSAGE value="Completed module 1" />
     <MESSAGE value="Completed module 2" />
     <MESSAGE value="module 3 Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 3 Tests" />
+    <MESSAGE value="Completed module 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed module 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="172" y="25" width="1050" height="708" key="CommitChangelistDialog2" timestamp="1601026721561">
+    <state x="551" y="194" width="292" height="398" key="AndroidCreateXmlResourceDialog" timestamp="1601029175804">
       <screen x="39" y="25" width="1327" height="708" />
     </state>
-    <state x="172" y="25" width="1050" height="708" key="CommitChangelistDialog2/39.25.1327.708@39.25.1327.708" timestamp="1601026721561" />
-    <state width="1281" height="153" key="GridCell.Tab.0.bottom" timestamp="1601026661519">
+    <state x="551" y="194" width="292" height="398" key="AndroidCreateXmlResourceDialog/39.25.1327.708@39.25.1327.708" timestamp="1601029175804" />
+    <state x="172" y="25" width="1050" height="708" key="CommitChangelistDialog2" timestamp="1601029538478">
       <screen x="39" y="25" width="1327" height="708" />
     </state>
-    <state width="1281" height="153" key="GridCell.Tab.0.bottom/39.25.1327.708@39.25.1327.708" timestamp="1601026661518" />
-    <state width="1281" height="153" key="GridCell.Tab.0.center" timestamp="1601026661518">
+    <state x="172" y="25" width="1050" height="708" key="CommitChangelistDialog2/39.25.1327.708@39.25.1327.708" timestamp="1601029538478" />
+    <state width="1281" height="153" key="GridCell.Tab.0.bottom" timestamp="1601028507259">
       <screen x="39" y="25" width="1327" height="708" />
     </state>
-    <state width="1281" height="153" key="GridCell.Tab.0.center/39.25.1327.708@39.25.1327.708" timestamp="1601026661518" />
-    <state width="1281" height="153" key="GridCell.Tab.0.left" timestamp="1601026661517">
+    <state width="1281" height="153" key="GridCell.Tab.0.bottom/39.25.1327.708@39.25.1327.708" timestamp="1601028507259" />
+    <state width="1281" height="153" key="GridCell.Tab.0.center" timestamp="1601028507258">
       <screen x="39" y="25" width="1327" height="708" />
     </state>
-    <state width="1281" height="153" key="GridCell.Tab.0.left/39.25.1327.708@39.25.1327.708" timestamp="1601026661517" />
-    <state width="1281" height="153" key="GridCell.Tab.0.right" timestamp="1601026661518">
+    <state width="1281" height="153" key="GridCell.Tab.0.center/39.25.1327.708@39.25.1327.708" timestamp="1601028507258" />
+    <state width="1281" height="153" key="GridCell.Tab.0.left" timestamp="1601028507257">
       <screen x="39" y="25" width="1327" height="708" />
     </state>
-    <state width="1281" height="153" key="GridCell.Tab.0.right/39.25.1327.708@39.25.1327.708" timestamp="1601026661518" />
-    <state x="297" y="115" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601026734726">
+    <state width="1281" height="153" key="GridCell.Tab.0.left/39.25.1327.708@39.25.1327.708" timestamp="1601028507257" />
+    <state width="1281" height="153" key="GridCell.Tab.0.right" timestamp="1601028507258">
       <screen x="39" y="25" width="1327" height="708" />
     </state>
-    <state x="297" y="115" width="800" height="535" key="Vcs.Push.Dialog.v2/39.25.1327.708@39.25.1327.708" timestamp="1601026734726" />
+    <state width="1281" height="153" key="GridCell.Tab.0.right/39.25.1327.708@39.25.1327.708" timestamp="1601028507258" />
+    <state x="297" y="115" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601027004002">
+      <screen x="39" y="25" width="1327" height="708" />
+    </state>
+    <state x="297" y="115" width="800" height="535" key="Vcs.Push.Dialog.v2/39.25.1327.708@39.25.1327.708" timestamp="1601027004002" />
+    <state x="354" y="118" width="696" height="522" key="find.popup" timestamp="1601029213993">
+      <screen x="39" y="25" width="1327" height="708" />
+    </state>
+    <state x="354" y="118" width="696" height="522" key="find.popup/39.25.1327.708@39.25.1327.708" timestamp="1601029213993" />
   </component>
 </project>
